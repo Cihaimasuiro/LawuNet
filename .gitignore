@@ -1,0 +1,25 @@
+# Apache NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbdist/
+/nbactions.xml
+
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile app package files
+*.jar
+*.war
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
